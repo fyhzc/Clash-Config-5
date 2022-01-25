@@ -1,0 +1,66 @@
+# 强制使用节点选择
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-KEYWORD,adobe
+DOMAIN-SUFFIX,zune.net
+
+# yahoo
+DOMAIN-KEYWORD,yahoo
+DOMAIN-SUFFIX,yimg.com
+
+# firefox浏览器服务
+DOMAIN-KEYWORD,mozilla
+DOMAIN-KEYWORD,mozaws
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,moz.works
+DOMAIN-SUFFIX,mozit.cloud
+
+# 20211220 cdn.jsdelivr.net国内停止服务
+DOMAIN-SUFFIX,jsdelivr.net
+
+# proxy lite  https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,garena.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,myteamspeak.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,ping.pe
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,teddysun.com
+DOMAIN-SUFFIX,tumbex.com
+DOMAIN-SUFFIX,twdvd.com
+DOMAIN-SUFFIX,unsplash.com
+
+# 国外域名
+DOMAIN-SUFFIX,eu
+DOMAIN-SUFFIX,hk
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,kr
+DOMAIN-SUFFIX,sg
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,us
+
+# 国外域名关键字
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-KEYWORD,whatsapp
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
+DOMAIN-KEYWORD,youtube
+# DOMAIN-KEYWORD,google

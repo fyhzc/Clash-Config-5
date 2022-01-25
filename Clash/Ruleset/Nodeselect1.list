@@ -1,0 +1,38 @@
+#示例
+#DOMAIN-SUFFIX,4i3fjumcyt87ic4jtyi84rcfghiuer.com
+#IP-CIDR,8.8.8.8/32,no-resolve
+
+#DOMAIN-SUFFIX,akadns.net
+
+# 国外dns服务器地址
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN,dns.google
+DOMAIN-SUFFIX,applied-privacy.net
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,nextdns.io
+DOMAIN-SUFFIX,quad9.net
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,cleanbrowsing.org
+DOMAIN-SUFFIX,opendns.com
+DOMAIN,ordns.he.net
+
+IP-CIDR,101.101.101.101/32,no-resolve
+IP-CIDR,185.184.222.222/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,9.9.9.9/32,no-resolve
+IP-CIDR,94.140.14.14/32,no-resolve
+IP-CIDR,94.140.15.15/32,no-resolve
+
+# 微软服务
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+# edge标签页
+DOMAIN-SUFFIX,msn.cn
+# edge同步
+DOMAIN,activity.windows.com
+DOMAIN,edge-enterprise.activity.windows.com
+DOMAIN,edge.activity.windows.com
