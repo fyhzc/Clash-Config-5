@@ -6,3 +6,4 @@ IP-CIDR,144.178.0.0/19,no-resolve
 IP-CIDR,144.178.36.0/22,no-resolve
 IP-CIDR,144.178.48.0/20,no-resolve
 DOMAIN,www.apple.com
+DOMAIN,captive.apple.com
