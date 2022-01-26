@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 
 DOMAIN,api.miwifi.com
+DOMAIN,all-c-master-tutk.iotcplatform.com
 
 # 假冒 firefox浏览器
 DOMAIN-SUFFIX,firefox.com.cn
