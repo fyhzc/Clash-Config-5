@@ -5,6 +5,7 @@
 
 # 屏蔽内容农场
 DOMAIN-SUFFIX,kknews.cc
+DOMAIN-SUFFIX,hezhisw.com
 
 # easyprivacy
 DOMAIN-SUFFIX,log.aliyuncs.com
