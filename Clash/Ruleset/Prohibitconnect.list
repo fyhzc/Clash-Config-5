@@ -46,7 +46,6 @@ DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,fclog.baidu.com
 DOMAIN-SUFFIX,miao.baidu.com
 
-
 DOMAIN-SUFFIX,cloudflareinsights.com
 
 DOMAIN-SUFFIX,mcs.snssdk.com
@@ -114,6 +113,7 @@ DOMAIN-SUFFIX,metrics.aem.playstation.com
 DOMAIN-SUFFIX,metrics.apple.com
 DOMAIN-SUFFIX,metrics.icloud.com
 
+DOMAIN,api.miwifi.com
 
 # 假冒 firefox浏览器
 DOMAIN-SUFFIX,firefox.com.cn
