@@ -3,6 +3,7 @@
 #IP-CIDR,8.8.8.8/32,no-resolve
 
 DOMAIN,doh.dns.apple.com
+DOMAIN,www.gstatic.cn
 
 # 国外dns服务器地址
 DOMAIN-SUFFIX,cloudflare-dns.com
