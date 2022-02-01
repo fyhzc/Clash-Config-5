@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,dingtalk
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,laiwang.com
 
+# 金融服务
+DOMAIN-SUFFIX,paypal.com
+
 DOMAIN-KEYWORD,unionpay
 DOMAIN-KEYWORD,银联
 
@@ -50,13 +53,6 @@ DOMAIN-SUFFIX,huami.com
 DOMAIN-SUFFIX,mipush.com
 DOMAIN-SUFFIX,duokan.com
 
-# 内容：Xunlei 迅雷
-DOMAIN-SUFFIX,kanimg.com
-DOMAIN-SUFFIX,kankan.com
-DOMAIN-SUFFIX,thundercdn.com
 # 迅雷下载
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xunlei.com
-
-# 金融服务
-DOMAIN-SUFFIX,paypal.com
