@@ -3,7 +3,10 @@
 #IP-CIDR,8.8.8.8/32,no-resolve
 
 DOMAIN,doh.dns.apple.com
+# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 200-202 lines
 DOMAIN,www.gstatic.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,google.cn
 
 # 国外dns服务器地址
 DOMAIN-SUFFIX,cloudflare-dns.com
