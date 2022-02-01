@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,oracle.com
 
+DOMAIN-KEYWORD,Synology
+
 DOMAIN-SUFFIX,1password.com
 
 # 补充代理
