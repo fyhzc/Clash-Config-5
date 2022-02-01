@@ -3,10 +3,31 @@ DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidupcs
+
+DOMAIN-KEYWORD,dingtalk
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,realapp.xin
+DOMAIN-SUFFIX,laiwang.com
+
 DOMAIN-KEYWORD,unionpay
 DOMAIN-KEYWORD,银联
+
 DOMAIN-SUFFIX,visa.com
 DOMAIN-SUFFIX,visa.co
+
+DOMAIN-KEYWORD,citicbank
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,cncbinternational.com
+
+DOMAIN-KEYWORD,bankcomm
+
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-KEYWORD,ccbhome
+
+DOMAIN-SUFFIX,icbc-ltd.com
+DOMAIN-SUFFIX,icbc.com
+DOMAIN-KEYWORD,icbcstandard
 
 # jd
 DOMAIN-KEYWORD,jdpay
