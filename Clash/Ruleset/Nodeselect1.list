@@ -30,16 +30,11 @@ DOMAIN-SUFFIX,cleanbrowsing.org
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN,ordns.he.net
 
-IP-CIDR,101.101.101.101/32,no-resolve
-IP-CIDR,185.184.222.222/32,no-resolve
-IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,9.9.9.9/32,no-resolve
-IP-CIDR,94.140.14.14/32,no-resolve
-IP-CIDR,94.140.15.15/32,no-resolve
 
 # 微软服务
 DOMAIN-SUFFIX,msftconnecttest.com
