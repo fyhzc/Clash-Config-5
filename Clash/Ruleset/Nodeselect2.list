@@ -61,6 +61,3 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,whatsapp
-# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
-DOMAIN-KEYWORD,youtube
-# DOMAIN-KEYWORD,google
