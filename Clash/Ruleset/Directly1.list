@@ -165,9 +165,6 @@ DOMAIN,nsx.sec.np.dl.playstation.net
 DOMAIN,poseidon.dl.playstation.net
 DOMAIN,image-ps4.api.playstation.com
 
-# Google China https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
-DOMAIN-SUFFIX,translate.googleapis.com
-
 # 国内服务强制全球直连
 DOMAIN-SUFFIX,bjhkbl.com
 DOMAIN-SUFFIX,bokecc.com
