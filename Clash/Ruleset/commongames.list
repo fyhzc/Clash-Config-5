@@ -210,6 +210,7 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,capcom-unity.com
 DOMAIN-SUFFIX,capcomusa.com
 DOMAIN-KEYWORD,residentevil
+DOMAIN-KEYWORD,devilmaycry
 
 #其他平台 来自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list
 DOMAIN-SUFFIX,fanatical.com
