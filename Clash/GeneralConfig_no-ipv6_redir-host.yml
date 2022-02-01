@@ -201,6 +201,10 @@ dns:
       - '+.google.cn'
       - '+.googleapis.cn'
       - '+.gvt1.com'
+      - 'translate.googleapis.com'
+      - 'safebrowsing-cache.google.com'
+      - 'safebrowsing.googleapis.com'
+      - 'clientservices.googleapis.com'
       - '+.bing.com'
       - '+.linkedin.com'
       - '+.msn.cn'
@@ -213,6 +217,7 @@ dns:
       - '+.sonyentertainmentnetwork.com'
       - '+.playstation.com'
 #      - '+.playstation.net'
+      - '+.api.plafdbhv7788jianr88.net'
 #  Apple TV https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/AppleTV.list
 # 太慢     - https://1.0.0.1/dns-query
 # https://azure.cloudflare-dns.com/dns-query
