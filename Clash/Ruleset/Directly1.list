@@ -153,6 +153,7 @@ DOMAIN,pop.zoho.com
 DOMAIN,poppro.zoho.com
 
 # playstation CDN
+# ### https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 219 lines
 DOMAIN,theia.dl.playstation.net
 DOMAIN,ps5.np.playstation.net
 DOMAIN,vulcan.dl.playstation.net
@@ -163,7 +164,7 @@ DOMAIN,zeus.dl.playstation.net
 DOMAIN,gs2.ww.prod.dl.playstation.net
 DOMAIN,nsx.sec.np.dl.playstation.net
 DOMAIN,poseidon.dl.playstation.net
-DOMAIN,image-ps4.api.playstation.com
+# DOMAIN,image-ps4.api.playstation.com
 
 # 国内服务强制全球直连
 DOMAIN-SUFFIX,bjhkbl.com
