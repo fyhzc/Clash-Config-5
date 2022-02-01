@@ -1,6 +1,5 @@
 # 强制使用节点选择
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,zune.net
 
 # https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 208 line
 DOMAIN-SUFFIX,bing.com
