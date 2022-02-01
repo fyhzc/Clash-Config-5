@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,moke
 DOMAIN-KEYWORD,vpimg
 DOMAIN-KEYWORD,xiami
 DOMAIN-KEYWORD,xiaomi
+
 # 内容：Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
@@ -25,3 +26,7 @@ DOMAIN-SUFFIX,thundercdn.com
 # 迅雷下载
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xunlei.com
+
+# 证书验证服务
+DOMAIN-SUFFIX,globalsign.net
+DOMAIN-SUFFIX,globalsign.com
