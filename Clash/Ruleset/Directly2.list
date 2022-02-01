@@ -1,7 +1,6 @@
 # 中国国内常见域名关键词直连
 DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidupcs
 DOMAIN-KEYWORD,jdpay
@@ -25,11 +24,8 @@ DOMAIN-SUFFIX,mipush.com
 DOMAIN-SUFFIX,duokan.com
 
 # 内容：Xunlei 迅雷
-DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
 DOMAIN-SUFFIX,kankan.com
-DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,thundercdn.com
 # 迅雷下载
 DOMAIN-SUFFIX,sandai.net
