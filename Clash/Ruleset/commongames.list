@@ -1,9 +1,8 @@
 # 示例
-#DOMAIN,game.com
-#DOMAIN-SUFFIX,game.com
+# DOMAIN,game.com
+# DOMAIN-SUFFIX,game.com
 # 本人是游戏爱好者，纯自用，尽可能全覆盖！
 # 如果有任何问题，欢迎提出issues
-# 本列表有来自ACL4SSR大佬的，有使用了UsbEAm Hosts Editor数据的，也有自己分析的
 
 # udp测试 UDP and TCP ports 3478
 DOMAIN,stun.syncthing.net
