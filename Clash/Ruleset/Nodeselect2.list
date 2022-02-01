@@ -1,6 +1,14 @@
+# 服务
 # 强制使用节点选择
+# 验证码
 DOMAIN-SUFFIX,hcaptcha.com
 
+# 加速
+DOMAIN-SUFFIX,jsdelivr.net
+
+DOMAIN-SUFFIX,1password.com
+
+# 补充代理
 # https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 208 line
 DOMAIN-SUFFIX,bing.com
 
@@ -15,13 +23,6 @@ DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,moz.works
 DOMAIN-SUFFIX,mozit.cloud
-
-# 20211220 cdn.jsdelivr.net国内停止服务
-DOMAIN-SUFFIX,jsdelivr.net
-
-# proxy+
-DOMAIN-SUFFIX,1password.com
-# --
 
 # 国外域名
 DOMAIN-SUFFIX,eu
