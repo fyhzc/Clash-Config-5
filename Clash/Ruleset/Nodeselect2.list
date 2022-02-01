@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,hcaptcha.com
 
 # 加速
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,oracle.com
 
 DOMAIN-SUFFIX,1password.com
 
