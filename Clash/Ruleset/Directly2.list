@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,xunlei.com
 # 证书验证服务
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.com
+
+# 金融服务
+DOMAIN-SUFFIX,paypal.com
