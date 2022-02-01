@@ -44,28 +44,6 @@ DOMAIN,officecdn.microsoft.com
 # Apple CDN发布日期： 2020 年 12 月 08 日
 # 参考 https://support.apple.com/zh-cn/HT210060
 DOMAIN-SUFFIX,cdn-apple.com
-#DOMAIN-SUFFIX,mzstatic.com
-#DOMAIN-SUFFIX,apps.apple.com
-
-#DOMAIN,downloaddispatch.itunes.apple.com
-#DOMAIN,captive.apple.com
-#DOMAIN,audiocontentdownload.apple.com
-#DOMAIN,devimages-cdn.apple.com
-#DOMAIN,download.developer.apple.com
-#DOMAIN,oscdn.apple.com
-#DOMAIN,swcdn.apple.com
-#DOMAIN-SUFFIX,itunes.apple.com
-#DOMAIN,appldnld.apple.com
-#DOMAIN,swscan.apple.com
-#DOMAIN,static.ips.apple.com
-
-# Apple 证书验证
-#DOMAIN,certs.apple.com
-#DOMAIN,crl.apple.com
-#DOMAIN,ocsp.apple.com
-#DOMAIN,ocsp.digicert.cn
-#DOMAIN,ocsp2.apple.com
-#DOMAIN,valid.apple.com
 
 # Apple 推送通知服务 (APNs)发布日期： 2020 年 12 月 08 日
 # 避免走代理以防止节点单点故障造成无法接受推送
