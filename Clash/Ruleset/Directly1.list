@@ -96,10 +96,6 @@ DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
 # 金融服务
 DOMAIN-SUFFIX,paypal.com
 
-# 证书验证服务
-#DOMAIN-SUFFIX,globalsign.net
-#DOMAIN-SUFFIX,globalsign.com
-
 # Ntp服务
 # 国外
 DST-PORT,123
