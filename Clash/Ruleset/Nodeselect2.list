@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-KEYWORD,adobe
 DOMAIN-SUFFIX,zune.net
 
+# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 204-207 lines
+DOMAIN-SUFFIX,bing.com
+
 # yahoo
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,yimg.com
