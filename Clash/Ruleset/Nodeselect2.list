@@ -3,14 +3,14 @@ DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-KEYWORD,adobe
 DOMAIN-SUFFIX,zune.net
 
-# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 204-207 lines
+# https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 208 line
 DOMAIN-SUFFIX,bing.com
 
 # yahoo
 DOMAIN-KEYWORD,yahoo
 DOMAIN-SUFFIX,yimg.com
 
-# firefox浏览器服务
+# firefox 浏览器
 DOMAIN-KEYWORD,mozilla
 DOMAIN-KEYWORD,mozaws
 DOMAIN-SUFFIX,firefox.com
@@ -21,25 +21,9 @@ DOMAIN-SUFFIX,mozit.cloud
 # 20211220 cdn.jsdelivr.net国内停止服务
 DOMAIN-SUFFIX,jsdelivr.net
 
-# proxy lite  https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
+# proxy+
 DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,bit.no.com
-DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,hoyolab.com
-DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,ping.pe
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,teddysun.com
-DOMAIN-SUFFIX,tumbex.com
-DOMAIN-SUFFIX,twdvd.com
-DOMAIN-SUFFIX,unsplash.com
+# --
 
 # 国外域名
 DOMAIN-SUFFIX,eu
@@ -64,3 +48,4 @@ DOMAIN-KEYWORD,sci-hub
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,reddit.com
