@@ -21,7 +21,7 @@ DOMAIN-KEYWORD,chinatelecom
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,21cn.net
 
-# 字节跳动
+# 字节跳动 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list
 DOMAIN-KEYWORD,bytedance
 DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,douyin
@@ -36,6 +36,25 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,feishucdn.com
+
+# 斗鱼 https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DouYu.list
+DOMAIN-KEYWORD,douyu
+
+# 小猿搜题
+DOMAIN-KEYWORD,yuanfudao
+DOMAIN-KEYWORD,yfdurl
+DOMAIN-KEYWORD,yuansouti
+DOMAIN-KEYWORD,yuantiku
+DOMAIN-KEYWORD,shandiansiwei
+DOMAIN-KEYWORD,banmaaike
+DOMAIN-KEYWORD,banmagushi
+
+# 酷狗音乐
+DOMAIN-KEYWORD,kugou
+DOMAIN-SUFFIX,kgimg.com
+
+# 酷我音乐
+DOMAIN-SUFFIX,koowo.com
 
 # dingtalk
 DOMAIN-KEYWORD,dingtalk
