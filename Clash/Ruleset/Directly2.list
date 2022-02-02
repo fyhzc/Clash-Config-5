@@ -3,7 +3,20 @@ DOMAIN-KEYWORD,360buy
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidupcs
+DOMAIN-KEYWORD,kaishustory
 
+# 中移
+DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-KEYWORD,chinamobile
+DOMAIN-KEYWORD,miguvideo
+
+# 中国联通
+DOMAIN-SUFFIX,10010.com
+DOMAIN-KEYWORD,chinaunicom
+DOMAIN-KEYWORD,unicompayment
+
+# dingtalk
 DOMAIN-KEYWORD,dingtalk
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,laiwang.com
