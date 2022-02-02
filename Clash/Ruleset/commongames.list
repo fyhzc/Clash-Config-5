@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,srv.nintendo.net
 
 # Xbox 来自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Xbox.list
 # https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xbox
+# 更新日期：2022年 2月 3日
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
@@ -47,8 +48,6 @@ DOMAIN-SUFFIX,xbox.eu
 DOMAIN-SUFFIX,xbox.org
 DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxstudios.com
-DOMAIN-SUFFIX,xbx.lv
-DOMAIN-SUFFIX,xboxservice.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,zune.net
 DOMAIN-KEYWORD,xboxab
@@ -56,6 +55,7 @@ DOMAIN-KEYWORD,xbox360
 DOMAIN-KEYWORD,xboxgame
 DOMAIN-KEYWORD,xboxlive
 DOMAIN-KEYWORD,xboxone
+DOMAIN-KEYWORD,xboxservice
 
 # Sony playstation 来自https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Sony.list
 # 注意 ：https://github.com/loongfzs/Clash-Config/blob/main/Clash/GeneralConfig_no-ipv6_redir-host.yml 215-218 lines
@@ -68,19 +68,9 @@ DOMAIN-SUFFIX,playstation.net
 # 任天堂 switch 参考 https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/nintendo
 # https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Nintendo.list
 DOMAIN-KEYWORD,nintendo
-DOMAIN-SUFFIX,nintendo.map.fastly.net
-DOMAIN-SUFFIX,nintendoeu-1.hs.llnwd.net
 DOMAIN-SUFFIX,e10127.a.akamaiedge.net
-DOMAIN-SUFFIX,nintendoofamerica.tt.omtrdc.net	
-DOMAIN-SUFFIX,zn5aocakgjj2uagxj-nintendoofamerica.siteintercept.qualtrics.com
-DOMAIN-SUFFIX,nintendoofamerica.tt.omtrdc.net
-DOMAIN-SUFFIX,nintendo.com.102.112.2o7.net
-DOMAIN-SUFFIX,nintendo.custhelp.com
-DOMAIN-SUFFIX,nintendo.quiq-api.com
-DOMAIN-SUFFIX,pw5k99.nintendo.gslb.f5silverline.com
 
 # 驱动、反作弊以及游戏周边资源
-
 # 反作弊加速
 # battleye
 DOMAIN-SUFFIX,battleye.com
