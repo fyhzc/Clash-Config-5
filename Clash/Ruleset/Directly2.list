@@ -21,6 +21,22 @@ DOMAIN-KEYWORD,chinatelecom
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,21cn.net
 
+# 字节跳动
+DOMAIN-KEYWORD,bytedance
+DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,xigua
+DOMAIN-KEYWORD,zijie
+DOMAIN-KEYWORD,huoshan
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,amemv.net
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,feishucdn.com
+
 # dingtalk
 DOMAIN-KEYWORD,dingtalk
 DOMAIN-SUFFIX,ddurl.to
