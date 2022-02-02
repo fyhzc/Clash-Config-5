@@ -109,6 +109,11 @@ DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xunlei.com
 
+# Anti-BT
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
+
 # dns服务
 DOMAIN-SUFFIX,dot.pub
 DOMAIN-SUFFIX,doh.pub
